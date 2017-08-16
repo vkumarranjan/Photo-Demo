@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.5.0"
+github "Alamofire/AlamofireImage" "3.2.0"
+github "Krimpedance/KRPullLoader" "1.0.1"
+github "OAuthSwift/OAuthSwift" "1.1.2"

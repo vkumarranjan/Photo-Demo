@@ -1,0 +1,10 @@
+framework module KRPullLoader {
+  umbrella header "KRPullLoader.h"
+
+  export *
+  module * { export * }
+}
+
+module KRPullLoader.Swift {
+    header "KRPullLoader-Swift.h"
+}
